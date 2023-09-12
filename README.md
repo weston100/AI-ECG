@@ -1,7 +1,11 @@
 # AI-ECG
-This repo contains tools for training, evaluating, and running deep learning models on electrocardiogram (ECG) waveforms. 
+This repo contains tools for training, evaluating, and running deep learning models on electrocardiogram (ECG) waveforms, including for the Stanford Estimator of Electrocardiogram Risk (SEER).
 
-A paper with more details on this project will be published shortly. At that point, any work using this repo should cite that paper.
+Details of the code and the SEER model are available in:
+
+> Hughes, J.W., Tooley, J., Torres Soto, J. et al. [**A deep learning-based electrocardiogram risk score for long term cardiovascular death and disease**](https://www.nature.com/articles/s41746-023-00916-6). npj Digit. Med. 6, 169 (2023).
+
+If you use our code and models for your research, please cite the above!
 
 ## Installation
 First, clone this repository and enter the directory by running:
